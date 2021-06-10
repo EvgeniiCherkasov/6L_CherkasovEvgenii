@@ -56,6 +56,7 @@ struct Queue<T> {
     }
 }
 
+//Проверка
 
 var intQueue = Queue<Int>()
 
